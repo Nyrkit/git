@@ -1,0 +1,104 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    margin-left: 250px;
+}
+.maindiv{
+    width: 300px;
+    margin-bottom: 30px;
+}
+.maindiv2{
+    width: 300px;
+    margin-bottom: 30px;
+}
+.maindiv3{
+    background: lightgreen;
+    width: 350px;
+    height: 150px;
+}
+.color1{
+    background: red;
+    height: 50px;
+}
+.color2{
+    background: blue;
+height: 50px;
+}
+.color3{
+    background: green;
+height: 50px;
+}
+.color4{
+    background: purple;
+    height: 50px;
+    width: 100px;
+    float: left;
+}
+.color5{
+    background: grey;
+    height: 50px;
+    width: 100px;
+    float: left;
+}
+.color6{
+    background: brown ;
+    height: 50px;
+    width: 100px;
+    float: left;
+}
+.color7{
+    background: yellow;
+    height: 50px;
+    width: 300px;
+}
+
+.maindiv3{
+    width: 300px;
+}
+
+.row1{
+    height: 50px;
+
+}
+.color8{
+    background: darkblue;
+    width: 150px;
+    height: 50px;
+    float: left;
+}
+.color9{
+    background: coral;
+    width: 150px;
+    height: 50px;
+    float: left;
+}
+.row2{
+    width: 300px;}
+
+.color10{
+    background: darkviolet ;
+    width: 60px;
+    height: 70px;
+float: left;
+margin: 20px;
+}
+.color11{
+    background: orange ;
+    width: 60px;
+    height: 70px;
+float: left;
+margin: 20px;
+}
+.color12{
+    background: darkred;
+    width: 60px;
+    height: 70px;
+    float: left;
+    margin: 20px;
+}
+p{
+    color: white;
+}
